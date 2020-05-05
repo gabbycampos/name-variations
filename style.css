@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(150, 222, 247);
+    color: rgb(56, 55, 55);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.title {
+    display: flex;
+    justify-content: left;
+    padding: 10px
+}
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+table {
+    padding: 10px;
+}
+th {
+    width: 300px;
+    padding: 15px;
+    background-color: rgb(245, 241, 241);
+}
+td {
+    height: 35px;
+    padding-left: 10px;
+    padding: 5px;
+}
+input {
+    padding: 5px;
+    border: 2px solid darkgray;
+    border-radius: 3px;
+}
+nav {
+    background-color: rgb(245, 241, 241);
+    margin-bottom: 15px;
+}
+.inputDiv {
+    padding: 10px;;
+}
